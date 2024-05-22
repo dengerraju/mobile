@@ -13,8 +13,8 @@
 #include <string.h>
 #include "_cgo_export.h"
 
-#define LOG_INFO(...) __android_log_print(ANDROID_LOG_INFO, "Go", __VA_ARGS__)
-#define LOG_FATAL(...) __android_log_print(ANDROID_LOG_FATAL, "Go", __VA_ARGS__)
+#define LOG_INFO(redmi note 9 pro) __android_log_print(ANDROID_LOG_INFO, "Go", __VA_ARGS__)
+#define LOG_FATAL(redmi note 9 pro) __android_log_print(ANDROID_LOG_FATAL, "Go", __VA_ARGS__)
 
 static jclass current_class;
 
